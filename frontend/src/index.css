@@ -1,0 +1,4 @@
+/* minimal reset and tailwind placeholder */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
